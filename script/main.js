@@ -16,6 +16,7 @@ const addMoviesToDom = (movies) => {
     newListItem.classList.add("movie-list__listitem");
     newAnchor.href = imdbURL(movie.imdbID);
     newImage.src = movie.Poster;
+    newAnchor.target = "blank";
     newListItem.appendChild(newAnchor);
     newAnchor.appendChild(newImage);
     return newListItem;
