@@ -72,8 +72,9 @@ const movies = [
     imdbID: "tt0458525",
 
     Type: "movie",
-
-    Po "https://dykey.nl/image/300/Droombeeld (6 van 52).jpg",
+     
+    Poster:
+       "https://dykey.nl/image/300/Droombeeld (6 van 52).jpg",
   },
 
   {
