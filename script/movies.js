@@ -36,6 +36,7 @@ const movies = [
 
     Poster:
       "https://dykey.nl/image/300/Droombeeld (3 van 52).jpg",
+   },
 
   {
     Title: "X2: X-Men United",
