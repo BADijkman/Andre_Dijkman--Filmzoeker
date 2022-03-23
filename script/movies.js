@@ -1,4 +1,4 @@
-const movies = [
+const moviesx = [
   {
     Title: "X-Men: Days of Future Past",
 
