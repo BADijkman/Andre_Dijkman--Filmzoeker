@@ -9,7 +9,7 @@ const movies = [
     Type: "movie",
 
     Poster:
-      "https://m.media-amazon.com/images/M/MV5BZGIzNWYzN2YtMjcwYS00YjQ3LWI2NjMtOTNiYTUyYjE2MGNkXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+      "https://dykey.nl/image/300/Droombeeld (1 van 52).jpg",
   },
 
   {
